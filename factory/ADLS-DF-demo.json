@@ -1,0 +1,9 @@
+{
+	"name": "ADLS-DF-demo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a3540445-35f2-4f64-88c9-f3dc5501f80b",
+		"tenantId": "c5177141-4db9-4c0f-aad2-2d4930ceafbd"
+	}
+}
